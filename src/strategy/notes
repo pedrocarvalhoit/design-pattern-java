@@ -1,0 +1,11 @@
+Strategy Pattern
+
+-> Both duck classes can: 1 - Be a duck, 2 - Has a Method from Duck Class
+
+-> Now, imagine that i want to create more Ducks, and i want to creat methods to eat and fly,
+but not every ducks can fly or eat the same way.
+
+->The best way is to create sub classes or interfaces that when implemented, can tell if the duck have a simple quack
+or no quack
+
+->Same thing for flying or display
