@@ -1,0 +1,13 @@
+Observer Pattern
+
+-> It is about Push vs Poll
+
+-> Imagine 2 Objects: The first one is mutable and the second one observes the changes
+that first one is passing thru. 
+
+-> The  Push Subject need to inform and send notification to oder ones, automatically
+without request.
+
+-> One object have a relationship with many other objects
+
+-> The Weather Station sends notification for the oservers.

@@ -1,7 +1,7 @@
 package strategy;
 
-import strategy.example.Interface.FlyInterface;
-import strategy.example.Interface.QuackInterface;
+import strategy.examples.Interface.FlyInterface;
+import strategy.examples.Interface.QuackInterface;
 
 public class Duck implements QuackInterface, FlyInterface{
 	

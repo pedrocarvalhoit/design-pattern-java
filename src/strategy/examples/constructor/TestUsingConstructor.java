@@ -1,4 +1,4 @@
-package strategy.example.constructor;
+package strategy.examples.constructor;
 
 import strategy.Duck2;
 

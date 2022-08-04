@@ -1,4 +1,4 @@
-package strategy.example.Interface;
+package strategy.examples.Interface;
 
 import strategy.Duck;
 
