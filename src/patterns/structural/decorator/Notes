@@ -1,0 +1,14 @@
+Decorator Pattern
+
+"Decorator is a structural design pattern that lets you attach new behaviors to objects by 
+placing these objects inside special wrapper objects that contain the behaviors."
+
+->Imagine the i have one object, and i a tell him a method say(), 
+expecting a return "Hello World". Now, i want to change the functionality, 
+but i will not change all the content, i will wrap in to a new one, and know this 
+new one works  over the last one. 
+
+->It is like attaching new responsabilits over the object
+
+-> The solution applicated in the examples, it isn´t the best for situations that i have to many classes. 
+
