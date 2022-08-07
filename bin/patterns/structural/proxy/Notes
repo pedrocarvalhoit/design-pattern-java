@@ -1,0 +1,13 @@
+Proxy Pattern
+
+"Proxy is a structural design pattern that lets you provide a substitute 
+or placeholder for another object. A proxy controls access to the original object, 
+allowing you to perform something either before or after the request gets through to the original object."
+
+"Proxies delegate all of the real work to some other object. Each proxy method should,
+ in the end, refer to a service object unless the proxy is a subclass of a service."
+
+-> Remote proxy: Exist to access a object that is remote
+->Virtual: Control access to a resource tha is expensive to create
+->Protection: To avoide not secure clients access determinated obeject that he don´t have right credential
+
