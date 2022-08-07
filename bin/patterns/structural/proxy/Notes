@@ -9,5 +9,5 @@ allowing you to perform something either before or after the request gets throug
 
 -> Remote proxy: Exist to access a object that is remote
 ->Virtual: Control access to a resource tha is expensive to create
-->Protection: To avoide not secure clients access determinated obeject that he don´t have right credential
+->Protection: To avoide not secure clients access determinated object that he don´t have right credential
 
