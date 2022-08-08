@@ -3,7 +3,7 @@ Factory Method
 "Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, 
 but allows subclasses to alter the type of objects that will be created."
 
-->In this method ew creat a class or intertace, that will be the factory responsable for keep the business logic of
+->In this method we creat a class or intertace, that will be the factory responsable for keep the business logic of
 creation
 
 
