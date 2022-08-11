@@ -1,0 +1,13 @@
+Iterator Pattern
+
+"Iterator is a behavioral design pattern that lets you traverse elements 
+of a collection without exposing its underlying representation (list, stack, tree, etc.)."
+
+-> The main intention of an iterator is pass through some list
+
+-> It is good for avoid expose data while iterating between them.
+
+	private Profile findProfile(String profileEmail) {
+		profiles.stream().filter(e -> e.equals(profileEmail)).forEach(System.out::println);
+		return null;
+	}
